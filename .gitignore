@@ -1,0 +1,3 @@
+﻿*.pack
+.angular
+node_modules
